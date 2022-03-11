@@ -4,7 +4,6 @@ import (
 	"math/rand"
 	"time"
 
-	tl "github.com/JoelOtter/termloop"
 )
 
 // Variable insideborderW and insideborderH are variables consisting of the arenawidth and height and subtract both with 1
